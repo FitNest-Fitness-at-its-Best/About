@@ -1,18 +1,30 @@
 # FitNest - Fitness At Its Best
-## About
+
+- [FitNest - Fitness At Its Best](#fitnest---fitness-at-its-best)
+  - [Summary](#summary)
+  - [Introduction](#introduction)
+  - [The App](#the-app)
+
+## Summary
+An app which promotes health and healthy eating with the help of AI and analytics!
+## Introduction
 Due to its drastic increase during the past decade, obesity is becoming an epidemic
 phenomenon in most developed countries. 
 
-The fact that more than thirty-three percent of adults and sixteen percent of children
-are obese has proven to be one of the biggest public health challenges to the general 
-population and social welfare. Unfortunately, obesity has still not been controlled effectively.
+The fact that more than 33% of adults and 16% of children are obese has proven to 
+be one of the biggest public health challenges to the general  population and social 
+welfare. Unfortunately, obesity has still not been controlled effectively.
 
-Also, due to COVID-19, people have been mostly eating at their homes only, leading
-to the illusion that they’re eating healthy. The amount of preservatives they have
+Also, due to COVID-19, people have been mostly eating at their homes only, *leading
+to the illusion that they’re eating healthy*. The amount of preservatives they have
 been intaking missing from fast food is immense. Mindless eating while working from
 home can be a disaster to one's health.
 
-This is why we propose a Food Detector - FitNest for the AngelHacks 2.0. 
+This is why we propose a **Food Detector - FitNest for AngelHacks 2.0**
+
+## The App
+
+
 
 Based on a photo taken by the user, the app detects the food present and respectively
 finds nutritional information for the given food. The user can then log this data into
