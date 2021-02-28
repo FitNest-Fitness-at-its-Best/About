@@ -33,6 +33,8 @@ home can be a disaster to one's health.
 
 This is why we propose a **Food Detector - FitNest for AngelHacks 2.0**
 
+The themes that we have chosen for our project is **ML/AI** and **Social Good**
+
 ## The App
 Based on a photo taken by the user, the app detects the food present and respectively
 finds nutritional information for the given food. The user can then log this data into
