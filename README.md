@@ -84,10 +84,13 @@ We plan to introduce a **social feed** where you could compare your health score
 
 
 ## Challenges we ran into
-1. Ooof, we thought searching for Dataset would be an easy thing. THERE IS NO DATASET ON ANY SITE WHICH COULD 
-SHOW INDIAN COOKED FOOD AND ITS CALORIES.  Scraping it via the internet and cleaning it was a task.
+1. Ooof, we thought searching for Dataset would be an easy thing. THERE IS NO DATASET ON ANY SITE WHICH COULD. WE ENDED UP TRYING SO MANNYYY STUFF LIKE SCRAPING, IMAGINE GETTING SANJEEV KAAPOR'S FACE FOR MASALA DOSA!
+SHOW INDIAN COOKED FOOD AND ITS CALORIES.  Scraping it via the internet and cleaning it was a BIG HELL OF a task.
 2. As beginners, we learnt many things during this short duration of time.
 3. Colab gets its runtime restarted, and the model had to be run thrice(and it takes so much time to do so).
+4. The model had to be optimized a lottttt, initially we were getting outputs in 5-10 second intervals! 👀
+5. Integrating the model with backend was quite challenging, especially when none of us had experience ever of loading it directly......
+6. Finally deciding metrics on how to get a health score was something that made us learn and research a lot....it was fun, yet exciting....
 
 
 ## Contributions
