@@ -27,17 +27,16 @@ the nutritional information of the food.
 
 
 **Why are we different from the various fitness applications out there?**
-1. All the applications are paid for premium users. This makes it difficult for the common
+1. 1.1.All the applications are paid for premium users. This makes it difficult for the common
 user to use it. We have made our business model different from all the apps out there. 
 Millionare companies(Swiggy/Zomato) would definitely want to use this for showing their users 
 what could they order according to their health demands. This has a very high probability of 
 their sales rising..(the poeple who don't care about healths are still gonna continue to order
 and those who do will get an incentive to try the heathy section that Swiggy/Zomato has)..
+1.2. Diet food makers could post an Ad in our applications for all te health freaks out there!
 
-Diet food makers could post an Ad in our applications for all te health freaks out there!
 2. Competition can make wonders happen! If staying healthy is difficult by the means of percentage, 
-percentile it is.
-We have added a feature where you could compare your health score with your friends/family members.
+percentile it is. We have added a feature where you could compare your health score with your friends/family members.
 Craving for a cheese burst pizza? Look your best friend Amy had salad for lunch! :D
 And maybe you could plan cheatdays with your gang together somedays later!! ;)
 
