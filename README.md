@@ -84,7 +84,7 @@ We plan to introduce a **social feed** where you could compare your health score
 
 
 ## Challenges we ran into
-1. Ooof, we thought searching for Dataset would be an easy thing. THERE IS NO DATASET ON ANY SITE WHICH COULD. WE ENDED UP TRYING SO MANNYYY STUFF LIKE SCRAPING, IMAGINE GETTING SANJEEV KAAPOR'S FACE FOR MASALA DOSA!
+1. Ooof, we thought searching for Dataset would be an easy thing. THERE IS NO DATASET ON ANY SITE WHICH COULD. WE ENDED UP TRYING SO MANNYYY STUFF LIKE SCRAPING, IMAGINE GETTING SANJEEV KAPOOR'S FACE FOR MASALA DOSA! *sad*
 SHOW INDIAN COOKED FOOD AND ITS CALORIES.  Scraping it via the internet and cleaning it was a BIG HELL OF a task.
 2. As beginners, we learnt many things during this short duration of time.
 3. Colab gets its runtime restarted, and the model had to be run thrice(and it takes so much time to do so).
