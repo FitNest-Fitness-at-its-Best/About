@@ -14,6 +14,7 @@
   - [Challenges we ran into](#challenges-we-ran-into)
   - [Contributions](#contributions)
   - [Links](#links)
+  - [Extras](#extras)
 
 ## Summary
 An app which promotes health and healthy eating with the help of AI and analytics!
@@ -100,4 +101,10 @@ SHOW INDIAN COOKED FOOD AND ITS CALORIES.  Scraping it via the internet and clea
 * [Backend Repo](https://github.com/FitNest-Fitness-at-its-Best/Backend)
 * [App Repo](https://github.com/FitNest-Fitness-at-its-Best/app)
 * [Figma Link](https://www.figma.com/file/Ywmx3rJWdPNaqqPJLntwDW/Fitnest?node-id=0%3A1&frame-preset-name=iPhone%2011%20Pro%20Max)
+
+## Extras
+
+* Workflow Diagram (Raw Diagram)
+  
+![excalidraw is the best](screenshots/image%201.png)
 
