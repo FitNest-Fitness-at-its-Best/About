@@ -3,10 +3,9 @@
 Due to its drastic increase during the past decade, obesity is becoming an epidemic
 phenomenon in most developed countries. 
 
-The fact that more than thirty-three percent of 
-adults and sixteen percent of children are obese has proven to be one of the
-biggest public health challenges to the general population and social welfare.
-Unfortunately, obesity has still not been controlled effectively.
+The fact that more than thirty-three percent of adults and sixteen percent of children
+are obese has proven to be one of the biggest public health challenges to the general 
+population and social welfare. Unfortunately, obesity has still not been controlled effectively.
 
 Also, due to COVID-19, people have been mostly eating at their homes only, leading
 to the illusion that they’re eating healthy. The amount of preservatives they have
@@ -35,17 +34,18 @@ their sales rising..(the poeple who don't care about healths are still gonna con
 and those who do will get an incentive to try the heathy section that Swiggy/Zomato has)..
 1.2. Diet food makers could post an Ad in our applications for all te health freaks out there!
 
-2. Competition can make wonders happen! If staying healthy is difficult by the means of percentage, 
+2. Competition can make wonders happen!:smirk: If staying healthy is difficult by the means of percentage, 
 percentile it is. We have added a feature where you could compare your health score with your friends/family members.
-Craving for a cheese burst pizza? Look your best friend Amy had salad for lunch! :D
-And maybe you could plan cheatdays with your gang together somedays later!! ;)
+Craving for a cheese burst pizza? Look your best friend Amy had salad for lunch! :smiley:
+And maybe you could plan cheatdays with your gang together somedays later!! :wink:
 
 
 **Challenges we ran into**
 1. Ooof, we thought searching for Dataset would be an easy thing. THERE IS NO DATASET ON ANY SITE WHICH COULD 
 SHOW INDIAN COOKED FOOD AND ITS CALORIES. 
-Scraping it via the internet, cleaning it was a task.
-2. 
+Scraping it via the internet and cleaning it was a task.
+2. As beginners, we learnt many things during this short duration of time.
+3. Colab gets its runtime restarted, and the model had to be run thrice(and it takes so much time to do so).
 
 
 **Future Proposals**
