@@ -19,13 +19,8 @@ finds nutritional information for the given food. The user can then log this dat
 a virtual diary which would help keep track of their calories consumed.
 
 
-**Business Model**:
-1. Swiggy Idea-Swiggy/Zomato could use this as they can show through our app(if integrated)
-the nutritional information of the food.
-3. Ads relating to various diet food items.
-
-
 **Why are we different from the various fitness applications out there?**
+*Our Business Model and the features that we've added makes us unique!*
 1. 1.1.All the applications are paid for premium users. This makes it difficult for the common
 user to use it. We have made our business model different from all the apps out there. 
 Millionare companies(Swiggy/Zomato) would definitely want to use this for showing their users 
